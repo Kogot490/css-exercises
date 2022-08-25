@@ -1,0 +1,21 @@
+.odd {
+    background-color: lightpink; 
+    font-family:verdana, DejaVu Sans, sans-serif;
+}
+
+#eTwo {
+    color:blue;
+    font-size: 36px;
+}
+
+#eThree {
+    background-color: lightpink; 
+    font-family:verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#eFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
